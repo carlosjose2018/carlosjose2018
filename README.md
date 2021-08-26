@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm José Carlos Araujo Bezerra</h1>
-<h3 align="center">Sou formado em analise e desenvolvimento de sistema, atualmente curso Web Full Stack na Let´s code com uma bolsado do Santander Code.</h3>
+<h3 align="center">Sou formado em analise e desenvolvimento de sistema, atualmente curso Web Full Stack na Let´s code .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosjose2018&label=Profile%20views&color=0e75b6&style=flat" alt="carlosjose2018" /> </p>
 
