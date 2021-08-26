@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosjose2018&label=Profile%20views&color=0e75b6&style=flat" alt="carlosjose2018" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js**,**Java**
 
 - 📫 How to reach me **carlosaraujo10jose3000@gmail.com**
 
